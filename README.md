@@ -20,19 +20,19 @@ Hackerrank Solutions of Python Section
 
  - Print Function
 
- - Basic Data Types
+- Basic Data Types
 
-  - Lists
+ - Lists
 
-  - Tuples
+ - Tuples
 
-  - List Comprehensions
+ - List Comprehensions
 
-  - Find the Second Largest Number
+ - Find the Second Largest Number
 
-  - Nested Lists
+ - Nested Lists
 
-  - Finding the percentage 
+ - Finding the percentage 
 
 ## Author
 [Anurag Goel](http://www.anuraggoel.in)
