@@ -36,7 +36,25 @@ Hackerrank Solutions of Python Section
  
 - Strings
 
- - sWAP cASE 
+ - sWAP cASE
+ 
+ - String Split and Join
+ 
+ - What's Your Name? 
+ 
+ - Mutations 
+ 
+ - Find a string 
+ 
+ - String Validators 
+ 
+ - Text Alignment 
+ 
+ - Text Wrap 
+ 
+ - Designer Door Mat 
+ 
+ - String Formatting 
 
 ## Author
 [Anurag Goel](http://www.anuraggoel.in)
