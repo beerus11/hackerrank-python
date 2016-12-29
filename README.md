@@ -1,5 +1,5 @@
 ## Hackerrank-Python
-Hackerrank Solutions of Python
+Hackerrank Solutions of Python Section
 
 ## Content
 - Introduction
@@ -7,6 +7,32 @@ Hackerrank Solutions of Python
  - Say "Hello, World!" With Python
 
  - Reading Raw Input
+
+ - Python If-Else
+
+ - Arithmetic Operators
+
+ - Python: Division
+
+ - Loops
+
+ - Write a function
+
+ - Print Function
+
+ - Basic Data Types
+
+  - Lists
+
+  - Tuples
+
+  - List Comprehensions
+
+  - Find the Second Largest Number
+
+  - Nested Lists
+
+  - Finding the percentage 
 
 ## Author
 [Anurag Goel](http://www.anuraggoel.in)
