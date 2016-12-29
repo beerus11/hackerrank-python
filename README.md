@@ -33,6 +33,10 @@ Hackerrank Solutions of Python Section
  - Nested Lists
 
  - Finding the percentage 
+ 
+- Strings
+
+ - sWAP cASE 
 
 ## Author
 [Anurag Goel](http://www.anuraggoel.in)
