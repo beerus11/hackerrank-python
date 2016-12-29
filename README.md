@@ -1,10 +1,12 @@
 ## Hackerrank-Python
-Hackerrank Solutions of  "30 Days of Code Challenges " in Java , Python , C , C#;
+Hackerrank Solutions of Python
 
 ## Content
--Introduction
-    - Say "Hello, World!" With Python
-    - Reading Raw Input 
+- Introduction
+
+ - Say "Hello, World!" With Python
+
+ - Reading Raw Input
 
 ## Author
 [Anurag Goel](http://www.anuraggoel.in)
