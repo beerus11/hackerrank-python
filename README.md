@@ -55,6 +55,14 @@ Hackerrank Solutions of Python Section
  - Designer Door Mat 
  
  - String Formatting 
+ 
+ - Alphabet Rangoli 
+ 
+ - Capitalize!
+ 
+ - The Minion Game 
+ 
+ - Merge the Tools! 
 
 ## Author
 [Anurag Goel](http://www.anuraggoel.in)
